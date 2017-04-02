@@ -8,6 +8,7 @@ here = path.abspath(path.dirname(__file__))
 setup(
     name='cbrf_receiver',
     version='0.1',
+    url='https://github.com/shirolapov/cbrf-receiver',
     description='Module for obtaining data from CBRF.',
     author='Kirill Shirolapov',
     author_email='kirill.shirolapov@gmail.com',
